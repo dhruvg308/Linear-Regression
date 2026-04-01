@@ -37,7 +37,7 @@ Loss decreased continuously over epochs which shows proper learning.
 
 ## How to Run
 1. Install required libraries:
-   pip install numpy matplotlib
+   pip install -r requirements.txt
 
 2. Run the code:
    python linear_regression.py
